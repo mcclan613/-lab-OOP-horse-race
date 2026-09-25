@@ -43,7 +43,7 @@ Race::runRace()
             - print the win message for that horse
     - if no one has won, prompt for Enter and wait
 
-## Extra Effort — Betting Prompt
+## Extra Effort  Betting Prompt
 
 Before the race starts, the user is prompted to bet on which horse will win
 (0-4). After the race finishes, the program compares the bet against the
